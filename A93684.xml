@@ -1,0 +1,270 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rules to get children by with handsome faces: or, Precepts for the extemporary sectaries which preach, and pray, and get children without book to consider and look on, before they leape. That so, their children may not have such strange, prodigious, ill-bodeing faces as their fathers, who (unhappily) became so ill-phisnomied themselves, not only by being born before their conversion, by originall sin, and by being crost over the face in babtisme; but by the lineall ignorance of their parents too in these presepts, for begetting children of ingenuous features and symmetrious limbes. / Composed by George Spinola.</title>
+            <author>Spinola, George.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93684</idno>
+            <idno type="STC">Wing S4983</idno>
+            <idno type="STC">Thomason E238_11</idno>
+            <idno type="STC">ESTC R4088</idno>
+            <idno type="EEBO-CITATION">99872598</idno>
+            <idno type="PROQUEST">99872598</idno>
+            <idno type="VID">158227</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93684)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158227)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 41:E238[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rules to get children by with handsome faces: or, Precepts for the extemporary sectaries which preach, and pray, and get children without book to consider and look on, before they leape. That so, their children may not have such strange, prodigious, ill-bodeing faces as their fathers, who (unhappily) became so ill-phisnomied themselves, not only by being born before their conversion, by originall sin, and by being crost over the face in babtisme; but by the lineall ignorance of their parents too in these presepts, for begetting children of ingenuous features and symmetrious limbes. / Composed by George Spinola.</title>
+                  <author>Spinola, George.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R H,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Religion --  17th century --  Cartoons, satire, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158227:1" rendition="simple:additions"/>
+            <p>RVLES TO GET CHILDREN BY WITH HANDSOME FACES: OR, Precepts for the Extemporary Sectaries which Preach, and Pray, and get Children without Book to conſider and look on, before they leape.</p>
+            <p>THAT SO, Their Children may not have ſuch ſtrange, prodigious, ill-bodeing <hi>Faces</hi> as their Fathers, who (unhappily) became ſo ill-phiſno<g ref="char:EOLhyphen"/>mied themſelves, not only by being born before their conver<g ref="char:EOLhyphen"/>ſion, by Originall Sin, and by being Croſt over the <hi>Face</hi> in Babtiſme; but by the lineall ignorance of their Parents too in theſe Precepts, fot beget<g ref="char:EOLhyphen"/>ting Children of Ingenuous Fea<g ref="char:EOLhyphen"/>
+               <hi>tures and Symmetrious Limbes.</hi>
+            </p>
+            <p>Compoſed by <hi>George Spinola.</hi>
+            </p>
+            <figure/>
+            <p>LONDON, Printed for <hi>R H,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:158227:2"/>
+            <head>Rules to get CHILDREN by, with handſome Faces.</head>
+            <p>NAture the Vicegerent of God, ſeems now to be grown old, and in ſuch a decrepit dotage, that ſhe is disinabled to bring forth things ſo accurate and perfect as ſhe was wont, when ſhe was young and luſty, and her veines fill'd with prolifique Spirit, not yet diſpenc'd to the generition of ſo many Millions of ſeverall things. The Sunne it ſelfe is obſerved by moderne Men, to have ſunke two degrees neerer to the Earth, then it was in <hi>Ptolomies</hi> time<g ref="char:punc">▪</g> and if that glorious body of the Sunne be not exempted from diminutions by time, we may well ſuſpect that the whole Frame and Syſteme of Nature, is hamſtringd and lame, and that ſhee her ſelfe goes now upon her crutches. The fire, which once (as the Ancient Aegyptians and Greeks tell us) brought forth many Creatures, as the Salamander, the Pyrauſta, and others, is now grown quite fruitleſſe and barren. The Ayre doth not now beſtow a cheriſhing and vitall incubation upon the Earth and Water, as ſometimes it did; and to ſay all in a Word, in compariſon of former influence and foecundity, the Heaven is become Braſſe, and the Earth Iron. Neither is this decay and dampe of Nature obſerueable in the Syſteme of the greater World alone, but more eminently in the <hi>Microcoſme</hi> or leſſer World of Man, which is a little tranſcript of the great Univerſe. Do but ſumme up the age of Man now adaies, then obſerve his petit diminutive Stature, and you will preſently ſay, That Man is but the Creature of a Day, that he is become a Pigmey now, and that Nature hath ſpent all her ſove<g ref="char:EOLhyphen"/>raign Balme which ſometimes maintain'd him in a kind of perfect, la<g ref="char:EOLhyphen"/>ſting, and ſetled beauty. Since, ſuch an inſufficiency of Nature in the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeming of all her Births, and eſpecially of Man, is manifeſt<g ref="char:punc">▪</g> I thought it not unworthy of a Phyloſopher to inquire the Reaſons, why Nature in this age of the World failes ſo much in the Generation of Man, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o to diſcover ſome Artificiall Rules to help and relieve her failings in the bodies of Men, &amp; to make Poſterity beholding to m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for their better Faces. But I confeſſe in all my obſervations of the Phiſnomies of Men, I
+<pb facs="tcp:158227:2"/> have not found ſuch ſtrange, exotick, forrain, ridiculous deformities, and non-conformities of parts in the Faces and Limbs of any kinde of Men, as in thoſe which at this day are familiarly called the Sectaries and Se<g ref="char:EOLhyphen"/>peratiſts, and therefore I direct this diſcourſe of Face-mending to thoſe inviſible Chriſtians of Knock-verjuce-lane, and other obſcure places. They above all others ſeem'd to me to have the faireſt plea, title, and claime to ſuch a diſcourſe. Firſt, becauſe the miſtakes of Nature are not ſo praepoſterous, ridiculous, and enormous in the Faces of any kind or order of Men as in theirs and their Childrens. Secondly, becauſe ſome of the beſt Rules of Facemending here propoſed, doe worke pri<g ref="char:EOLhyphen"/>marily by the ſtrength and force of Imagination, in which kind of Ima<g ref="char:EOLhyphen"/>gination, they are known to have a greater ſhare, then of Reaſon, and a cleare intellectuall minde. Now leaſt any Man ſhould thinke I of<g ref="char:EOLhyphen"/>fer at a thing impoſſible, when I promiſe Rules to get Children with handſome Faces; Firſt I will ſhew you that ſome Chriſtian Philoſo<g ref="char:EOLhyphen"/>phers upon their honour have affirm'd, that it is poſſible by Rules of Art reduc'd to practiſe, not only to mend, but to raiſe even out of Duſt the bodies of many vegetables, and ſenſitive Creatures, which bids higher for the improvement of Nature, then my diſcourſe of Rules. Secondly, I will lay the Baſis and foundation of my Rules in the Scripture it ſelfe, that the Browniſt (if he be true to his own poſitions) may not ſuſpect me for a humane Traditioner; but apply himſelfe forthwith to beget good Faces by the Text.</p>
+            <p>It is reported of <hi>Rhaſis</hi> the Arabian, and <hi>Albertus Magnus</hi> (and them<g ref="char:EOLhyphen"/>ſelves in their writings intimate the ſame) that they did generate and pro<g ref="char:EOLhyphen"/>duce by Art, <hi>Homunculos quoſdam,</hi> certain little men in ſtature puppet<g ref="char:EOLhyphen"/>like, but with all the Organs of a perfect man, born by the ordinary courſe of Nature. <hi>Paracelſus,</hi> of whom the judicious <hi>Eraſmus</hi> of Roterdam, ſaies, <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ulta invenit divinitus,</hi> he found out many things by Divine inſpirati<g ref="char:EOLhyphen"/>on, con<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſeth boldly, that he receiv'd that ſecret of producing little men by Art from God himſelfe, and ſets down the way of proceeding artifici<g ref="char:EOLhyphen"/>ally to that purpoſe, in his firſt Book of the Nature of things.</p>
+            <p>The bold experiments of theſe Philoſophers excuſe me for daring on<g ref="char:EOLhyphen"/>ly but ſo high as to preſcribe Rules to beget good and Orthodox Faces, eſpecially ſince my way of proceeding, takes it riſe from Scripture, and common experience of obſerving men. And now I fall upon that part of naturall and moſt lawfull Magick, by which the Generation of Man may be perfected and enobled.</p>
+            <p>1 Rule. It is known to all ſober and diſcreet men; That all ſenſitive
+<pb facs="tcp:158227:3"/> Creatures (and ſuch are Men eſpecially when they cloſe with Women) do Impreſſe into the thing begot that very affection which prevailes and preſides in them in or about the time of Generation. And this is confir<g ref="char:EOLhyphen"/>med by the practiſe of the Patriarch <hi>Ja<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ob, Gen. 30. 37. And</hi> Jacob <hi>tooke him Rods of green Poplar, and of the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſell and Cheſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut-trce, and pilled white ſtrakes in them, and made the White appeare which was in the Rods. And he ſet the Rods which he had pil'd before the Flo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks in the Gutters in the wa<g ref="char:EOLhyphen"/>tring-troughes when the Flocks came to drink, that they ſhould conceive when they <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame to drink; And the Flo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks conceiv'd before the Rods, and brought forth Cattel ri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gſtraked, ſpeckled and ſpotted, &amp;c.</hi> The whole Story proves not only the lawfulneſſe of this kind of <hi>Naturall Magick</hi> to better the Generation of Beaſts, much more of Men, but the uſe and certain effect of Impreſſions taken from externall objects. In <hi>Meſopotamia</hi> and <hi>Syria,</hi> where this <hi>Patriarch</hi> was Shepheard, the heat of the weather is exceſ<g ref="char:EOLhyphen"/>ſive, the Waters but <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew, and thoſe for the moſt part in little purles; therefore when the Flocks came to the water wherein the Rod<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were laid and look'd upon them in the Water, to which they had an e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ger appe<g ref="char:EOLhyphen"/>tite, they did, as it were, with their eies, draw in and drink the ſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pes of thoſe Rods lov'd and deſir'd by them, even in that love and deſire of the Water, and ſo generated, conceived, and teem'd t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſe ſpeckled births. And no doubt, but an Artifici<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll and lawfull <hi>Magick</hi> not unlike this of the <hi>Patriarch</hi> may be uſed with good ſucceſſe to perfect the generation of Man. Be this then the firſt <hi>Rule,</hi> Take heed what affection prevailes in thee, and what Impreſſion thou haſt derived and naturaliz'd to thy ſelf from outward objects about that time when thou goeſt about the <hi>Blan<g ref="char:EOLhyphen"/>dum Myſterium,</hi> as <hi>Triſmegiſt</hi> ſpeaks, the toying myſtery, which makes thee Father of an handſome or ill-favoured Babe. The Tribe of the <hi>Browniſts</hi> though illuminated has bin extreamly ignorant in this principle. And it is no wond<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r that they and their barnes are of ſuch ridiculous Phiſno<g ref="char:EOLhyphen"/>mies, ſince by their profeſſion they abhor all decency and harmoniouſ<g ref="char:EOLhyphen"/>neſſe, and lye with their Wives in that opinion. Impreſſions of ſloven<g ref="char:EOLhyphen"/>neſſe, diſorder and diſproportion muſt needs affect the Spirits of ſuch as are habitually averſe from decencie, order and proportion. If no other ill Impreſſion but this which is almoſt their very eſſence; namely, the ab<g ref="char:EOLhyphen"/>juring of all Order, affected their ſpirits, it were enough to make all their brood of ſhapes as ſtrange and monſtrous as thoſe irregular figures and appe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rance<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which ſometimes we ſee in the Clouds, which ſeverall eyes judge to be of ſeverall forme<g ref="char:punc">▪</g> yonder Cloud ſaies one looks like a Ped<g ref="char:EOLhyphen"/>ler with a pack upon his back, no ſaies another, it is a Cat-a-Mountai<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e
+<pb facs="tcp:158227:3"/> with the heeles upward. But this is not all; beſides, their reſolute abju<g ref="char:EOLhyphen"/>ring of Order, from variety of other Objects of their like or diſlike, va<g ref="char:EOLhyphen"/>rieties of ſtrange Impreſſions ariſe in their Spirits. One faſtens upon a Presbytery which neither he nor the Chriſtian World, for this almoſt fifteen <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>undred yeares, well underſtood, and in the ignorant heat of that deſire, begets a thing of ſuch a doubtfull ſhape, that when it is preſented to a Miniſter that can ſee, he may juſtly doubt whether it be a thing that ought to be Chriſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed at all, or not. From his diſlike of Epiſco<g ref="char:EOLhyphen"/>pacy reſults his love of Presbitery, and from thoſe two together, ſuch a miſcellaneous Impreſſion is made in the blood, that any thing begot of that is very likely to look monſtrous ſcurvily. In the minde of another of them, <hi>Canterbury</hi> continually runnes, and though his fancie be not ſtrong enough to hit the lineaments of the Man exactly, yet his hate is active enough to draw him more monſter then he is in ſhape or m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nners<g ref="char:punc">▪</g> He hath an ugly ſhape of the man in his minde, though not a true one, and that ugly <hi>Idea,</hi> Prints it ſelfe in his blood, as we often ſee miſhapen Clouds in the Water; when his Religion, his appetite, and Miſtris incites him to give due benevolence, he cannot well expect, if <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e underſtand himſelf, that the iſſue of that Cloſe, ſhould have but one Face, and that handſome<g ref="char:punc">▪</g> but one Name, and that Chriſtian. Cer<g ref="char:EOLhyphen"/>tainly, it muſt needs prove a thing of doubtfull Interpretation, of a Prieſt-and-Miniſter Face, of a Secular and Eccleſiaſtick Head and S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oulders, or elſe an uncooth-ſhap't Lay-Elder bepiſt in the Swad<g ref="char:EOLhyphen"/>ling-clouts; for part of its Originall it will owe to that Impreſſion which the Father hath derived from ſtrange apprehenſions of Canter<g ref="char:EOLhyphen"/>bury, and part to the Dad and Mam, as meere Seperatiſts. Neither is it unlike, that the ſhape of a Biſhop ſhould contract Lay-Elderſhip and Originall Sinne from the blood of a Browniſt, where ignorance and hate hath miſtaken, and writ it foule.</p>
+            <p>But ſee! here comes a Company of Aſſaſinates to make a religious <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iot upon Cheapefide-Croſſe: they looke ſomething like Men, and might poſſibly beget Children with humane Faces; but for thoſe very Images which they will carry home to their Wives, Imprinted in their <hi>Animal-Spirits, (Spiritus animalis quoniam natura mobilis, tenuis paſsi<g ref="char:EOLhyphen"/>vuſque eſt, aptus eſt omnibus a rebus pati,</hi> Campanella. <hi>lib. 4. cap.</hi> 6.) by looking eagerly upon what they deſire to ruine.</p>
+            <p>The Objects of Love and Hate cut deepe Impreſſions in our Soules. One falls foule upon the Picture of <hi>Judas</hi> and his Lanthorne, and when he comes home reports to his Wife his zeale and valour, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen
+<pb facs="tcp:158227:4"/> whilſt his ſpirit is big and full of the action, begets a Brat with a <hi>Judas-</hi>lanthorn-belly, which in time will be fi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d with Illumination and Gutt, like the Fathers. Another <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al upon the Statur<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>int <hi>Peter;</hi> a third upon <hi>Pauls;</hi> a fourth upon thoſe which are remembrancers of more glo<g ref="char:EOLhyphen"/>rious Names, and from all theſe firſt lookt upon with hate, while they ſtand entire, and then with pleaſure when they are diſmembred, ſtrange unſhapen figures are impreſt in the blood, able to make all their poſteri<g ref="char:EOLhyphen"/>ty Apes, Elves, and Hobgoblins.</p>
+            <p>Thus they prevaricate from my firſt Rule which teaches Men to take heed what affection preſides in them, and what Impreſſion they derive from outward Objects. And ſince miſhapen objects poſſeſſe the eager beholders with miſhapen figures; I adviſe the Sectaries hereafter to finde themſelves objects wherein there is a beauteous conformity of all parts, out of a Chriſtian pitty to them and their poſterity, I wiſh them all which have Wives to buy the Canon of the Maſſe, ana the Golden Legend, for there they ſhall finde moſt beautious pictures of the Ro<g ref="char:EOLhyphen"/>man Saints of Biſhops, Prieſts, Deacons, Archbiſhops, Archdeacous, Ca<g ref="char:EOLhyphen"/>nons, Demicanons, Prebends, Deans, Nuns, and Virgin-Ladies, which wil beget <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ormes in their fancies, eſpecially if with a devout intention they peruſe the ſtory of their lives ſubjoynd, which will certainly ſend them back to gaze upon the pictures with a great deale of love. One ſe<g ref="char:EOLhyphen"/>rious look of a Browniſt upon the red Capitall Letters in the Canon of the Maſſe, would enable him to beget a Boy or G<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rle with Cherry<g ref="char:EOLhyphen"/>cheeks and L<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ps. But I muſt praemoniſh thee (good Browniſt) that thou look not upon all the pictures in the Maſſe-book and Legend with equal ardency; take <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eed of ſtaring too wide upon S. <hi>Dunſtan</hi> holding the De<g ref="char:EOLhyphen"/>vill by the Noſe with a payre of tongs, leſt immediately upon it thou chance to get a Babe which may have more of the Devill, the Noſe, and the Tongues in it, then of S. <hi>Dunſtan.</hi> There is a Picture of a certaine Saint, preaching in the Water with a little Milſtone about his necke, by miracle to convert the Ethnicks which flung him ſo deſperately into the Water<g ref="char:punc">▪</g> paſſe by this picture I pray thee, leſt while the Imagination of this is freſh in thee, thou ſhouldſt aff<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ict the World with a prodigi<g ref="char:EOLhyphen"/>ous opinioniſt which would induce a forme, and urge the neceſſity of Preaching in the Water, with Milſtones about mens neckes, to put U<g ref="char:EOLhyphen"/>niverſitie Hoods quite out of faſhion. And thus I paſſe from the firſt Rule, and your treſpaſſes againſt it, with the redreſſes of ills enſuing to you from thoſe treſpaſſes, to the ſecond Rule as followeth.</p>
+            <p>2 <hi>Rule.</hi> Let no Sectary dare to enter the armes of his miſtris, before he has praemeditated, and is certainly inform'd whether benigne ſtarres be
+<pb facs="tcp:158227:4"/> in the H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roſcope, whether happy Planets ſmile upon one another with a gratious aſpect, that a Childe may not be got (as <hi>Spencer</hi> ſpeaks)
+<q>
+                  <l>
+                     <hi>—<g ref="char:V">Ʋ</g>nder ill-diſpoſed Skies,</hi>
+                  </l>
+                  <l>
+                     <hi>When ſullen</hi> Sa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne <hi>ſits 'ith'houſe of obloquies.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>But this Rule the Browniſt is partly reſolv'd, partly neceſſitated to tranſgreſſe though he get a Childe with more horrid and ridiculou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Phiſnomies then are neceſſary for a whole maſque of anticks. Firſt be<g ref="char:EOLhyphen"/>cauſe he neither has nor will have any skill in this kind of humane lear<g ref="char:EOLhyphen"/>ning. Secondly, his extemporary Cock-ſparrow devotion towards his doxie will not let him take time to Catechiſe a Planet, and ſay, <hi>is it peace Jehu</hi> (for by his learning he may eaſily take that for the name of a Pla<g ref="char:EOLhyphen"/>net) or <hi>in what point of Heaven is Leviathan now.</hi> Thirdly, becauſe he cannot be convinct that the Stars have an Influentiall authority here up<g ref="char:EOLhyphen"/>on Earth, ſince he beleeves that the Biſhops which liein a neerer proſpect to him have none at all; <hi>And yet the Stars</hi> (beloved <hi>ſought in their courſes againſt Jabin and Siſera,</hi> and why may not the Stars take up the Cud<g ref="char:EOLhyphen"/>gels to break thy babies Head, or Brain, or face, and make it break forth a <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery Moone-calfe; rather then you ſhould be quite ignorant in this Rule and fright us ſtill with your Childrens ill-portending faces, I pray that you may convert <hi>Bouker, Aleſtre, Winter,</hi> and all the reſt of the Alma<g ref="char:EOLhyphen"/>nack-mongers to be the adviſers and grooms of your wantou Stooles.</p>
+            <p>3 <hi>Rule.</hi> My third Rule or caution is founded upon a relation of <hi>Ae<g ref="char:EOLhyphen"/>lian</hi> a Greek Hiſtorian and Philoſopher. In Africa (ſayes he) where it is very hot, and Waters are ſcarce, wilde Beaſts of all kinds and ſhapes meet iogether at the Water in very great Companies, and there, when their ſpirits are cheered by the Water, they engender with one another at randome, and ſo by a continual coalition of promiſcuous blood, Africk is continually full of ſtrange and monſtrous ſhapes.</p>
+            <p>It is not hard to draw a faire paralleliſme betwixt theſe African Beaſts, and the practiſe of the inviſible brethren; your hearts<g ref="char:punc">▪</g> (brethren) are known to be as great and malignant as thoſe which the ſurly Dog<g ref="char:EOLhyphen"/>ſtar breathes; your companies are full, and of ſhapes, ſtrange and exotick, whether compar'd with us, or one another, your watering places are but few and private; your waters are cheering, ſublimated Cock-broth, amber<g ref="char:EOLhyphen"/>greece caudle, candied-eryngomotives, frontinack &amp; muſcatellie-means, with the high and mighty ſpirit of <hi>Diaſatyrion</hi> to raiſe your weaklings, fallen into interims of ſpirituall deſertions; now, if you chance to min<g ref="char:EOLhyphen"/>gle your loves promiſcuouſly (which I will not ſay) as you i<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eave opinions, and beget monſters, in reaſon, your Church may well <hi>Vie</hi> with Africk for monſtrous ſhapes, and give it three in ſeven. Take heed there<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:158227:5"/> (good private Chriſtion) of theſe hot, private, luſty, and promiſcuous meetings, if thou mean'ſt that thy Childe, or him that thou mayſt own for thine, ſhould have a handſome ingenious look.</p>
+            <p>My fourth <hi>Rule</hi> informes the Sectary not to be raſh in the choice of a place for familiar congreſſe and collation of notes with his Miſtris, place may conduce much to the temper, both of the body and mind of a Child. A Child got upon a payre of ſtairs, is very likely to be crump-ſhouldred; and beſides that, may confeſſe the place of its Originall by ſtaring. An Orchard may conduce to the Green-ſickneſſe; a Dayrie to a Whey<g ref="char:EOLhyphen"/>beard; a Chee<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e-loft to all kind of Obſtructions; a Gallery, to a Long<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſe<g ref="char:punc">▪</g> a dull kitchin to the love-hickup, for the want of Wit; and repleti<g ref="char:EOLhyphen"/>on by meat and drink engender love and the hickup. If thy Miſtris will ſtand a veney rather then faile againſt a Bean-ſtalk, canſt thou think to beget any thing there but an Arminian, for the Mothers fear and ſuſpi<g ref="char:EOLhyphen"/>tion of breaking her Bean-reſt, may infuſe in a Babe ſo begot a ſtrong ſuſpition of falling away finally, againſt the Browniſts Poſition of Aſſu<g ref="char:EOLhyphen"/>rance: If ſhe be ſo comming that ſhe wil allow thy Courtſhip, even there where there is nothing but Venice-glaſſes &amp; Urinals behind her, the Birth may prove an open traſparant Foole, and have the Piſſing evill for ever.</p>
+            <p>My fifth <hi>Rule</hi> adviſeth thee to leave thy Preaching, and fall to thy Trade, if thou mean to get Children with handſome Faces, and Symme<g ref="char:EOLhyphen"/>trious Limbs. Thoſe high ſpeculations of thine, concerning Gods eter<g ref="char:EOLhyphen"/>nall efficacious decree, concerning the certainty of Divine preſcience op<g ref="char:EOLhyphen"/>poſing contingency of actions, concerning the immobility of Divine praedeſtination, end reprobation; thoſe (I ſay) make thy weak Spirit, like a Skain of raveld Silk, which is hardly evolved without ſnapping, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aring, and a thouſand knots; whilſt thy Spirits are ſo entangled, perplext, and at<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enuated into ſingle threds, thy Childe muſt probably have ſuch a long, thin, and narrow Face, that a man even with that Face, inſtead of a ſtick might ſtop paper into the hole of an Eldern-gnn. The <hi>Roman Prieſts</hi> even for this Reaſon, <hi>Becauſe their Spirits are engad'g in Divine and Humane Contemplations, are prohibited the Marriage-bed; and if at any time a con<g ref="char:EOLhyphen"/>templative Prieſt chance to g<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t a Baby, it proves ſuch a witleſſe and ſhape<g ref="char:EOLhyphen"/>leſſe Foole, that he never owns it as his Son, but his Nephew.</hi> Much more I could have ſaid in this Argument of <hi>Sectary-facemending,</hi> but that a ſe<g ref="char:EOLhyphen"/>rious ſtudy which I have in hand, cals me to play upon a deeper Reed, then <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nes the <hi>Face of a <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> If theſe Precepts already given do not mend their <hi>Faces</hi> and <hi>behaviours,</hi> I beeleeve our <hi>Honourable Patriots of the high Councell</hi> will become ſuch natural magnians as <hi>Jacob</hi> was, and lay Rods for'em in their moſt private <hi>Watring-troughs.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
